@@ -1,4 +1,4 @@
-# tech_market_simulation
+# Learning through alliances
 
 Simulation code for the paper Özaygen, Özman (2015). "Learning through Alliances: The Role of IPR and knowledge codification".
 
