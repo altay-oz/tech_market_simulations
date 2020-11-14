@@ -1,6 +1,6 @@
 # Learning in networks: An agent based simulation
 
-Simulation code for the chapter Özaygen, Özman (2021). "LLearning in networks: An agent based simulation" in Handbook of Research Methods and Applications in Industrial Dynamics and Evolutionary Economics, ed. Uwe Cantner, Marco Guerzoni and Simone Vannuccini.
+Simulation code for the chapter Özaygen, Özman (2021). "Learning in networks: An agent based simulation" in Handbook of Research Methods and Applications in Industrial Dynamics and Evolutionary Economics, ed. Uwe Cantner, Marco Guerzoni and Simone Vannuccini.
 
 
 The simulation is run on python 2.7.
