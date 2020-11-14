@@ -5,7 +5,7 @@ Simulation code for the chapter Özaygen, Özman (2021). "Learning in networks: 
 
 The simulation is run on python 2.7.
 
-$ python src/main/simul_tm.py
+`$ python src/main/simul_tm.py`
 
 Parameters are set on src/main/global_values.py
 
@@ -13,4 +13,4 @@ Output graphs are obtained with src/analyze_output/analyze_simulation_output.R Y
 
 Tests are in directory src/test/ and all tests could be run with
 
-$ python src/test/test_all.py
+`$ python src/test/test_all.py`
