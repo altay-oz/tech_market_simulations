@@ -9,7 +9,7 @@ The simulation is run on python 2.7.
 
 Parameters are set on src/main/global_values.py
 
-Output graphs are obtained with src/analyze_output/analyze_simulation_output.R You need to run R with igraph and ggplot2 libraries.
+Output graphs are obtained with `src/analyze_output/analyze_simulation_output.R` You need to run R with igraph and ggplot2 libraries.
 
 Tests are in directory src/test/ and all tests could be run with
 
